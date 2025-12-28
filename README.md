@@ -42,7 +42,8 @@ The dashboard focuses on **profit leakage detection, discount optimization, and 
 ---
 
 ## 2. Regional Performance
-<img width="1418" height="908" alt="Region View" src="https://github.com/user-attachments/assets/475050a3-d6f1-408a-895f-6d5da4723f4c" />
+<img width="1421" height="908" alt="Region View" src="https://github.com/user-attachments/assets/6a042ef0-ce1c-423f-8fd0-dd23936f01c8" />
+
 
 
 ### Key Findings
@@ -53,7 +54,7 @@ The dashboard focuses on **profit leakage detection, discount optimization, and 
 ---
 
 ## 3. Customer Segmentation
-<img width="1422" height="908" alt="Customer View" src="https://github.com/user-attachments/assets/3a343358-fa8c-40ca-ab0a-46a85459794c" />
+<img width="1418" height="908" alt="Customer  View" src="https://github.com/user-attachments/assets/c041187a-de0f-4c63-b4f4-a5d3bdd83ccc" />
 
 
 ### Key Findings
